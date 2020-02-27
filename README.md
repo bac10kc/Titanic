@@ -1,2 +1,3 @@
 # Titanic
-Analysis and modelisation of the Titanic data
+***
+Analyse des données Titanic et modélisation des survivants
